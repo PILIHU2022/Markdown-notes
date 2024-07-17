@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "9ea4ca7d15d50bdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b31278ad40b45229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d14a30eb57dd0899",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f37e6c4c58be976",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ce8af63cfe26fcbd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d4814dd3375568cd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d38c0bfd1769564d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e4768faf641581d3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e53832302d3d7d56",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "da73001b46dedf96",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7faa7ec47d5a3f1a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7179437ade00baf3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d14a30eb57dd0899",
+  "lastOpenFiles": [
+    "Grammars.md",
+    "Phrase_and_Words.md",
+    "未命名.canvas",
+    "Mind_Map.md",
+    "Tables.md",
+    "志愿者.md",
+    "Photos-Of-Volunteering-at-Humen-School.md",
+    "mmexport1713668143470_105847.jpg",
+    "入团志愿书.md",
+    "入团志愿书模板.md",
+    "账号.md",
+    "虎门第三中学820班职务.md",
+    "6.0.md",
+    "5.0.md",
+    "Untitled.canvas",
+    "Untitled 1.md"
+  ]
+}
