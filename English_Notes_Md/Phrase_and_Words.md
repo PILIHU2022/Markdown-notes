@@ -24,6 +24,10 @@ carry 抬\
 Mentioned 提到\
 transportation 交通工具\
 paragraph(简写para) 段\
+skim 略读\
+retirment 退休\
+last 用作动词时有==持续==的意思\
+forgive 原谅\
 # 短语
 Daily Habits 日常习惯\
 Surf the Internet 网上冲浪\
@@ -50,3 +54,21 @@ once = one time 一次\
 Host family 寄宿家庭\
 blow out 吹灭\
 in order to 为了\
+for a while 一会\
+act v. 行动\
+any minutes 随时\
+at most 至多\
+make a mess 弄得一团糟\
+shout back 顶嘴\
+It's not a big deal 没什么大不了的\
+hang over挂在……之上\
+push sb so hard\
+as usual 照常\
+point out 指出\
+as well 又、也、还，多用于句末\
+call out 唤醒\
+work on 致力于\
+any thing is possible 一切皆有可能\
+keep trying 坚持努力\
+neither of 两者都不\
+boiled water 开水\

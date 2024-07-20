@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b31278ad40b45229",
+        "id": "22481e2d8081f6b9",
         "type": "tabs",
         "children": [
           {
-            "id": "d14a30eb57dd0899",
+            "id": "86270cfe8f06273a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -123,10 +123,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d14a30eb57dd0899",
+  "active": "86270cfe8f06273a",
   "lastOpenFiles": [
     "Grammars.md",
     "Phrase_and_Words.md",
+    "情态动词.md",
+    "助动词.md",
+    "Notices.md",
+    "Important_Grammars.md",
+    "延续性动词.md",
+    "非连续性动词.md",
+    "非连续性动词/短暂性动词.md",
+    "非连续性动词",
+    "谓语动词.md",
+    "主将从现.md",
     "未命名.canvas",
     "Mind_Map.md",
     "Tables.md",

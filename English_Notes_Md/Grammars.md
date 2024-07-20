@@ -1,3 +1,4 @@
+# 重要语法另见[[Important Grammars]]
 # 语法
 That sounds + 形容词\
 Get to + sw. 到达\
@@ -12,10 +13,11 @@ At + 钟点\
 Full of fun 充满乐趣\
 Have a good/great time + doing sth. fcfc
 In + 年/季节/月/一天的早中晚\
-On:
-- + 具体天数
-- + 具体一天的早中晚
-- + 前有修饰词的早中晚
+On + { }:
+- 具体天数
+- 具体一天的早中晚
+- 前有修饰词的早中晚
+
 Finish + doing sth.\
 Help sb. with sth. 帮助某人做某事\
 Start at 开始于\
@@ -36,9 +38,10 @@ Take sb. to sw. 带某人到某地\
 Wait for sb. 等待某人\
 Feel like doing sth. 感觉好像在做某事\
 Because of + v./n. 由于……\
-Because:
-- + 句子 ——因为……
-- + 词语 ——未知
+Because + { }:
+- 句子 ——因为……
+- 词语 ——未知
+
 Be full for sb. 为某人来说很忙\
 Another two hours = two more hours 另外两个小时\
 数 + percent of 百分之\
@@ -69,7 +72,7 @@ Practice doing sth. 练习做某事\
 Be + v.过去分词 + by sb.
 Make sure to do sth
 Be not for sb. 不适合某人\
-Write + 代词 + down.\
+Write + 代词 + down\
 Be bored with sb./sth. 对某人/物感到厌烦\
 Be bored with doing sth. 做某事感到厌烦\
 write + 代词 + down \
@@ -92,8 +95,9 @@ To go with … 为了搭配……\
 It's time {to do}/{for doing} + sth 该做某事的时候了\
 { } + not ... until：
 - be
-- 助动词{do,does,did}
-- 情态动词
+- [[助动词]]
+- [[情态动词]]
+
 might + 动词原形
 Be + 形容词 + to do sth (固定搭配)\
 Look farward to doing sth \
@@ -106,6 +110,7 @@ give sb sth\
 感叹句：
 - 主语前有形容词，用How
 - 主语前有名词，用What
+
 一般情况下：\
 Be + 形容词 + to do sth
 
@@ -120,6 +125,7 @@ spend + {}
 - in doing sth
 - on sth 在某方面花时间
 - time with sb 与某人共度时光
+
 another + 名词单数\
 other + 名词复数\
 any other + 名词单数\
@@ -131,4 +137,66 @@ be + {}:
 - 名词
 - 形容词
 - doing
+
 Practice doing sth 练习做某事\
+Be used to doing sth 习惯于做某事\
+{ } + with sb:
+- What's the matter
+- What's wrong
+- What's the trouble
+- What's the problem
+
+You had better (not) do\
+had better：最好\
+without doing sth\
+see sb. doing sth 看到某人正做某事\
+help oneself to sth\
+teach oneself to do sth\
+bandage oneself 自我包扎\
+used to do sth. 过去常常做某事\
+make it possible to do sth\
+What happened to sb\
+neither of ，[[谓语动词]]用单数\
+neither ... or ... 即使……也不……\
+as soon as 引导时间状语从句，遵循[[主将从现]]\
+borrow sth. from sb. 从……借来\
+lend sth. to sb. 借……给某人\
+hate + { }:
+- to do sth.
+- doing sth.
+
+sth. be in mess 某物杂乱\
+It's one turn to do sth. 轮到某人做某事\
+as + {adj./adv.}原级 + as\
+not enough to do sth. 做某事是不够的\
+with the help of 在……的帮助下\
+get into a fight with 参与吵架/打架\
+Why don't you do sth. == Why not do sth.\
+have a fight with 与……吵架/打架\
+find sb. doing sth. 发现某人正做某事\
+give sth. back to sb. 把……归还给……\
+talk about sth. with sb. \
+be afraid of doing sth. \
+ask for leave 请假\
+be unhappy with sb. 对某人不满意\
+push sb. into doing sth. 督促某人做某事\
+have time to do sth. 有时间做某事\
+at the time of 在……的时候\
+hear sb. doing sth. \
+beat ... against 对着……敲打\
+has meaning to sb. 对……有意义\
+look out of 向外看\
+neither + be/[[助动词]]/[[情态动词]] + 主语\
+against + sb./sth./doing sth.\
+continue + { }:
+- to do sth.
+- doing sth.
+keep on doing sth.\
+marry sb. == get married with sb.\
+as long as 只要\
+all over the world 全世界\
+too ...(adj.) to ...(v.) 太……而不能……\
+keep sth. for sb\
+made + { }:
+- from 看不到原材料
+- of 看得到原材料
