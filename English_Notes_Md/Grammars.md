@@ -1,4 +1,4 @@
-# 重要语法另见[[Important Grammars]]
+# 重要语法另见[[Important_Grammars]]
 # 语法
 That sounds + 形容词\
 Get to + sw. 到达\
@@ -100,7 +100,6 @@ It's time {to do}/{for doing} + sth 该做某事的时候了\
 
 might + 动词原形
 Be + 形容词 + to do sth (固定搭配)\
-Look farward to doing sth \
 the + n. \
 one of + 名词复数\
 one of + 形容词最高级\
@@ -200,3 +199,88 @@ keep sth. for sb\
 made + { }:
 - from 看不到原材料
 - of 看得到原材料
+[[感叹句语法]]\
+谓语动词是Be用形容词，是[[行为动词]]用adv.\
+happened to do sth. 碰巧\
+any other + 名词单数：
+- any other:其他任何
+
+one of [[谓语动词]]用单数
+protect ... from + { }:
+- sth.
+- doing
+
+risk one's live 冒着生命危险\
+challenge oneself 挑战某人自己\
+the + 比较级 + of the two\
+{ } + 名词单数：
+- few 几乎没有
+- a few
+
+send ... to ... 把……送到……\
+feed on 以……为食\
+the mark of ……的迹象\
+fight over sth. with sb. 因某事和某人争吵\
+a fan of ……的粉丝\
+bring sb. back to ... 把某人带回到……\
+do some research on ... 做一些关于……的研究\
+in + 四季\
+such + a/an + adj. + 名词 如此……\
+so adj. + a/an + 名词 如此……\
+时间状语从句：
+- [[主将从现]]
+- [[主情从现]]
+- [[主祈从现]]
+
+分数的表示：
+- 分子：基数词
+- 分母：序数词
+- 若分子>1，分母在序数词的基础上+`s`
+
+look forward to doing sth. 期待做某事\
+one ... the other \
+there be + doing sth.\
+fear to do sth. 害怕做某事\
+be afraid to do sth. 害怕做某事\
+{'have problem','have trouble'} + (in) doing sth.\
+whenever 引导[[让步状语从句]]\
+be popular with sb. 受某人的欢迎\
+[[被动语态]]\
+[[现在完成时]] + since + 过去时\
+序数词 + 最高级\
+no longer [[行为动词]]前，Be动词后，[[助动词]]、[[情态动词]]后\
+part with sb.\
+for a while 一段时间\
+search for \
+among 三者以上的中间，加adj.最高级\
+regard ... as ... 把……视作为……\
+according to sb. 在某人看来\
+[[持续性动词]] + for + 一段时间\
+助动词(have/has) + [[持续性动词]]（过去分词） + since + { }:
+- 过去时态句子
+- 过去时间点
+
+sell sth. to sb.\
+as much as 与……相同\
+choose to do sth. 选择去做某事\
+return = go back = come back 返回\
+used to do sth. 过去常常做某事\
+opposite = across from 在……对面\
+名词单数修饰名词\
+train sb. to do sth. 
+provide + { }:
+- sth. for sb.
+- sb. with sth.
+
+as well 在肯定句句末\
+die + { }:
+- of 内部因素
+- from 外部因素
+
+[[Pay]]
+see sb. + { }:
+- do sth.
+- doing sth.
+
+have/has been in sw. (+ for + 一段时间)待在某地\
+offer sth. to sb.

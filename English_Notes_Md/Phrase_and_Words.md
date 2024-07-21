@@ -28,6 +28,15 @@ skim 略读\
 retirment 退休\
 last 用作动词时有==持续==的意思\
 forgive 原谅\
+as = when 当……时\
+purpose 目的\
+director 导演\
+increasing 增长\
+reduce 减少\
+rank 排序\
+senior 高级的\
+countable 可数的\
+inexpensive 便宜\
 # 短语
 Daily Habits 日常习惯\
 Surf the Internet 网上冲浪\
@@ -72,3 +81,17 @@ any thing is possible 一切皆有可能\
 keep trying 坚持努力\
 neither of 两者都不\
 boiled water 开水\
+for their live 为了逃命\
+run along 绵延\
+belong to 属于\
+make progress 取得进步\
+a couple of time 几次\
+wherever 无论哪里\
+have a hard time 过得很艰难\
+plenty of == a lot of\
+in need 需要的\
+not anymore 不再\
+stressed out 备受压力的\
+stayed the same 一成不变的\
+change for the better 变得更好\
+hand in 上交\
