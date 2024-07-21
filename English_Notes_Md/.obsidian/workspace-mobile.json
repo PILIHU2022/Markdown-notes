@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1082e5e185fb2c40",
+        "id": "c207ab5b52c47d62",
         "type": "tabs",
         "children": [
           {
-            "id": "fcac83bc9846decb",
+            "id": "e2844ecf448039d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "首页.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "首页.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "首页.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "首页.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -132,10 +123,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fcac83bc9846decb",
+  "active": "e2844ecf448039d2",
   "lastOpenFiles": [
-    "Pictrues.md",
+    "耻辱.md",
+    "音标.md",
+    "Pictures/Private/3.jpg",
+    "Pictures/Private/1 (1).jpg",
+    "Pictures/Private/1.jpg",
+    "Pictures/Private",
+    "Pictures/耻辱/2.jpg",
+    "Pictures/耻辱/1.jpg",
+    "Pictures/耻辱",
+    "Pictures/音标/1.py",
+    "Pictures/音标/14.jpg",
+    "Pictures/音标/13.jpg",
+    "Pictures/音标/12.jpg",
+    "Pictures/音标/11.jpg",
+    "Pictures/音标/10.jpg",
     "首页.md",
+    "Pictrues.md",
     "Tables.md",
     "Grammars.md",
     "Do_Not_Confirm.md",
@@ -158,11 +164,8 @@
     "行为动词.md",
     "感叹句语法.md",
     "助动词.md",
-    "延续性动词.md",
-    "非连续性动词.md",
     "非连续性动词",
     "未命名.canvas",
-    "mmexport1713668143470_105847.jpg",
     "Untitled.canvas"
   ]
 }
