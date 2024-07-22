@@ -3,7 +3,7 @@
 printf是一个打印命令,这类似于Python的print,如下:
 ``` C
 // ~/C_study/print.c
-// C语言中每行代码结束都必须带上分号!不可是中文字符
+// C语言中每行代码结束都必须带上分号!不是中文字符
 
 #include<stdio.h> //引入stdio.h库
 int main() //main不可修改,唯一的
