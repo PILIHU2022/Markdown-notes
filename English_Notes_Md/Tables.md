@@ -23,3 +23,16 @@
 | become/join  | be in     |
 | borrow       | keep      |
 | buy          | have      |
+
+| 词性  | 缩写      |
+| --- | ------- |
+| 名词  | n.      |
+| 冠词  | art.    |
+| 形容词 | adj.    |
+| 代词  | porn.   |
+| 数词  | num.    |
+| 连词  | conj.   |
+| 动词  | v.      |
+| 副词  | adv.    |
+| 感叹词 | interj. |
+| 介词  | prep.   |
