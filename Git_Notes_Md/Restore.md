@@ -9,6 +9,7 @@ git restore filename
 ```
 git restore --source=HEAD~1 file.txt
 ```
+*注：会丢弃工作区中未提交的改动*
 ## 丢弃未提交的更改
 ```
 git restore --staged filename
