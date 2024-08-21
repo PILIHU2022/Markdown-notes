@@ -69,3 +69,12 @@ git merge origin/branch-name
 git log
 ```
 即可
+
+# 学习资料
+[廖雪峰的网站](https://liaoxuefeng.com/)
+[Git游戏](https://learngitbranching.js.org/?locale=zh_CN)
+[菜鸟教程](https://www.runoob.com/git/git-tutorial.html)
+[Git官方文档](https://git-scm.com/docs)
+[中文版ProGit](https://www.progit.cn/)
+[英文版ProGit](https://git-scm.com/book)
+[Git高级操作，疑难杂症](https://ohshitgit.com/zh)
