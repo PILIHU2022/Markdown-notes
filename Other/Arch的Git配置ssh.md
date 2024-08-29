@@ -1,4 +1,4 @@
-# arch的Git，配置ssh
+# Arch的Git，配置ssh
 ```
 ssh-keygen -t rsa#生成秘钥
 ```
