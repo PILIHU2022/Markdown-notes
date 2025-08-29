@@ -10,3 +10,14 @@ int main() {
 }
 ```
 如上，有双引号的不会报错
+
+## 单引号
+一般是用于类型为`char`的单个字符
+```C
+#include <stdio.h>
+int main() {
+  char a = 'a';
+  printf("%c", a);
+  return 0;
+}
+```

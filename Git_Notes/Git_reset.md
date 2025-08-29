@@ -29,4 +29,4 @@ git reset --soft HEAD~1
 
 #### commit且push
 
-没救了 
+没救了
